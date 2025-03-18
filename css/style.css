@@ -1132,15 +1132,15 @@ margin-bottom: 25px;
 .banner-content {
     position: relative;
     z-index: 1;
-    padding: 100px 0; /* Ajusta el padding para que sea consistente */
+    padding: 30px 0; /* Ajusta el padding para que sea consistente */
 }
 
 /* Ajusta el padding y el margen de la sección de la grilla de botones */
 #section-buttons {
     position: relative;
-    padding: 100px 0; /* Ajusta el padding para que sea consistente */
+    padding: 10px 0; /* Ajusta el padding para que sea consistente */
     overflow: hidden;
-    min-height: 100vh; /* Asegura que la sección ocupe toda la altura de la ventana */
+    min-height: 10vh; /* Asegura que la sección ocupe toda la altura de la ventana */
 }
 
 #section-buttons spline-viewer {
